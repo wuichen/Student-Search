@@ -1,13 +1,11 @@
-react-rocket
-============
+Student-Search
 
-A boilerplate using ReactJS (along with React Router and RefluxJS), SASS, Gulp, and Browserify that also utilizes Gulp best practices from [this resource](https://github.com/greypants/gulp-starter).
+A small project built with React.js, react-router, and reflux, using react-rocket boilerplate (https://github.com/jakemmarsh/react-rocket-boilerplate)
 
----
 
 ### Getting up and running
 
-1. Clone this repo from `https://github.com/jakemmarsh/react-rocket.git`
+1. Clone this repo from `https://github.com/wuichen/Student-Search.git`
 2. Run `npm install` from the root directory
 3. Run `gulp dev` (may require installing Gulp globally `npm install gulp -g`)
 4. Your browser will automatically be opened and directed to the browser-sync proxy address
