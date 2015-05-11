@@ -1,6 +1,6 @@
-Student-Search
+#Student-Search
 
-A small project built with React.js, react-router, and reflux, using react-rocket boilerplate (https://github.com/jakemmarsh/react-rocket-boilerplate)
+##A small project built with React.js, react-router, and reflux, using react-rocket boilerplate (https://github.com/jakemmarsh/react-rocket-boilerplate)
 
 
 ### Getting up and running
