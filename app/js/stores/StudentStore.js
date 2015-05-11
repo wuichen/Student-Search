@@ -30,7 +30,7 @@ var students = [
         id:5, 
         name: 'john',
         major: 'arts',
-        gpa: '3.4'
+        gpa: '2.4'
 
     },{
         id:6, 
@@ -41,13 +41,13 @@ var students = [
     },    {   id:7, 
         name: 'steven',
         major: 'info',
-        gpa: '3.3'
+        gpa: '3.0'
 
     },{
         id:8, 
         name: 'john',
         major: 'arts',
-        gpa: '3.4'
+        gpa: '3.1'
 
     },{
         id:9, 
@@ -64,7 +64,7 @@ var students = [
         id:10, 
         name: 'john',
         major: 'arts',
-        gpa: '3.4'
+        gpa: '3.9'
 
     },{
         id:11, 
@@ -81,7 +81,7 @@ var students = [
         id:13, 
         name: 'john',
         major: 'arts',
-        gpa: '3.8'
+        gpa: '2.2'
 
     },{
         id:14, 
